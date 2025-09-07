@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table {
+    border: 2px solid black;
+}
+
+th {
+    text-align: left;
+    padding-right: 25px;
+    background-color: black;
+    color: white;
+}
+
+td {
+    padding-right: 25px;
+}
